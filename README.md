@@ -95,9 +95,9 @@ int main(int argc, char *argv[]) {
 }
 ```
 ## OUTPUT
-![Alt text](4.1-1.png)
+![Alt text](4.1.png)
 
-![Alt text](4.2-1.png)
+![Alt text](4.2.png)
 
 # RESULT:
 The programs are executed successfully.
